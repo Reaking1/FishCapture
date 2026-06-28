@@ -1,0 +1,4 @@
+self.score = 0
+if distance < 40:
+    self.fishes.remove(fish)
+    self.score += 1
